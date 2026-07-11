@@ -47,8 +47,8 @@
 
 ### 🏆 Competitive Programming
 
-- **Codeforces:** Rating 1517 (@Spectacles_01)
-- **CodeChef:** Rating 1618 (@spectacles_01)
+- **Codeforces:** Rating 1258 (@Spectacles_01)
+- **CodeChef:** Rating 1612 (@spectacles_01)
 - **LeetCode:** Rating 1576 (@gangmonk)
 
 ---
