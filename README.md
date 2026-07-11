@@ -75,4 +75,4 @@
 ---
 
 ### 🐍 Contribution Snake
-![GitHub Snake Animation](https://raw.githubusercontent.com/Satish-011/Satish-011/output/dist/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/Satish-011/Satish-011/output/github-contribution-grid-snake-dark.svg)
