@@ -42,19 +42,30 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**DevOps & Testing**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 ---
 
 ### 🏆 Competitive Programming
 
-- **Codeforces:** Rating 1258 (@Spectacles_01)
+- **Codeforces:** Rating 1517 (@Spectacles_01)
 - **CodeChef:** Rating 1612 (@spectacles_01)
 - **LeetCode:** Rating 1702 (@gangmonk)
 
 ---
 
 ### 🚀 Highlighted Projects
+
+⚙️ **Scalable Banking & Ledger API**
+- *Description:* A production-ready backend system for banking operations featuring ACID transactions, custom sliding-window rate limiting, and automated Redis caching.
+- *Tech:* Node.js, Express.js, MongoDB, Redis, Docker, Jest, BullMQ.
 
 ⚙️ **Vidndia**
 - *Description:* A scalable backend system supporting video management, authentication, and social interactions.
