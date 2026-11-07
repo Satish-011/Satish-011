@@ -40,7 +40,6 @@ const satish = {
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=ff4500">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=ff4500">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=ff4500">
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-0d0d0d?style=flat-square&logo=jest&logoColor=ff4500">
 </p>
 
 <h3 align="center">ratings</h3>
