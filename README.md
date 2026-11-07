@@ -56,9 +56,6 @@ const satish = {
 | project | what it does | stack |
 | :-- | :-- | :-- |
 | [Banking & Ledger API](https://github.com/Satish-011/Backend-ledger) | Banking backend with ACID transactions, custom sliding-window rate limiting and automated Redis caching | Node.js, Express, MongoDB, Redis, Docker, Jest, BullMQ |
-| Vidndia | Backend for video management, authentication and social interactions | Node.js, Express, MongoDB, JWT |
-| [Solrise](https://solrise-alpha.vercel.app) | Codeforces analytics dashboard | Next.js, TypeScript |
-
 <h3 align="center">stats</h3>
 
 <p align="center">
