@@ -46,7 +46,7 @@ const satish = {
 <h3 align="center">ratings</h3>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Spectacles_01"><img alt="Codeforces @Spectacles_01" src="https://img.shields.io/badge/codeforces-1258-ff4500?style=flat-square&logo=codeforces&logoColor=ff4500&labelColor=0d0d0d"></a>
+  <a href="https://codeforces.com/profile/Spectacles_01"><img alt="Codeforces @Spectacles_01" src="https://img.shields.io/badge/codeforces-1277-ff4500?style=flat-square&logo=codeforces&logoColor=ff4500&labelColor=0d0d0d"></a>
   <a href="https://www.codechef.com/users/spectacles_01"><img alt="CodeChef @spectacles_01" src="https://img.shields.io/badge/codechef-1612-ff4500?style=flat-square&logo=codechef&logoColor=ff4500&labelColor=0d0d0d"></a>
   <a href="https://leetcode.com/u/gangmonk"><img alt="LeetCode @gangmonk" src="https://img.shields.io/badge/leetcode-1702-ff4500?style=flat-square&logo=leetcode&logoColor=ff4500&labelColor=0d0d0d"></a>
 </p>
@@ -55,7 +55,7 @@ const satish = {
 
 | project | what it does | stack |
 | :-- | :-- | :-- |
-| [Banking & Ledger API](https://github.com/Satish-011/Backend-ledger) | Banking backend with ACID transactions, custom sliding-window rate limiting and automated Redis caching | Node.js, Express, MongoDB, Redis, Docker, Jest, BullMQ |
+| [Banking & Ledger API](https://github.com/Satish-011/Backend-ledger) | Banking backend with ACID transactions, custom sliding-window rate limiting and automated Redis caching | Node.js, Express, MongoDB, Redis, Docker, BullMQ |
 <h3 align="center">stats</h3>
 
 <p align="center">
